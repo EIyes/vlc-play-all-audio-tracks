@@ -1,1 +1,1 @@
-start "" "C:\Program Files\VideoLAN\VLC\vlc.exe" --sout-all --sout #display %1%
+start "C:\Program Files (x86)\VideoLAN\VLC" --sout-all --sout #display %1%
